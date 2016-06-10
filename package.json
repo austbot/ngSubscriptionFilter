@@ -1,0 +1,23 @@
+{
+  "name": "ngsubscriptionfilter",
+  "version": "0.0.1",
+  "description": "Async filter for ng 1 and rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austbot/ngSubscriptionFilter.git"
+  },
+  "keywords": [
+    "rxjs",
+    "angularjs"
+  ],
+  "author": "austbot",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/austbot/ngSubscriptionFilter/issues"
+  },
+  "homepage": "https://github.com/austbot/ngSubscriptionFilter#readme"
+}
