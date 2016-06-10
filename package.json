@@ -4,7 +4,9 @@
   "description": "Async filter for ng 1 and rxjs",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "",
+    "start-webdriver": "webdriver-manager start",
+    "e2e-test": "protractor conf.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,8 @@
   "dependencies": {
     "angular": "^1.5.6",
     "rxjs": "^5.0.0-beta.8"
+  },
+  "devDependencies": {
+    "protractor": "^3.3.0"
   }
 }
